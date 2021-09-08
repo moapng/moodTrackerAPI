@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BackEndMoodTracker.Models
+namespace MoodTrackerAPI.Models
 {
-    class MoodDataModel
+    public class MoodDataModel
     {
         public int ID { get; set; }
         public string MoodType { get; set; }

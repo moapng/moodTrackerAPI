@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerBackEnd\\MoodTrackerAPI\\MoodTrackerAPI.csproj": {}
+    "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerAPI\\MoodTrackerAPI\\MoodTrackerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerBackEnd\\MoodTrackerAPI\\MoodTrackerAPI.csproj": {
+    "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerAPI\\MoodTrackerAPI\\MoodTrackerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerBackEnd\\MoodTrackerAPI\\MoodTrackerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerAPI\\MoodTrackerAPI\\MoodTrackerAPI.csproj",
         "projectName": "MoodTrackerAPI",
-        "projectPath": "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerBackEnd\\MoodTrackerAPI\\MoodTrackerAPI.csproj",
+        "projectPath": "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerAPI\\MoodTrackerAPI\\MoodTrackerAPI.csproj",
         "packagesPath": "C:\\Users\\Moa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerBackEnd\\MoodTrackerAPI\\obj\\",
+        "outputPath": "C:\\Users\\Moa\\OneDrive\\Dokument\\GitHub\\moodTrackerAPI\\MoodTrackerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
