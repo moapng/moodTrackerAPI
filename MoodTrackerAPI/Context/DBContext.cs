@@ -1,14 +1,15 @@
 using Microsoft.EntityFrameworkCore;
 using MoodTrackerAPI.Models;
 
-namespace SignToSeminarBackEnd.Context
+namespace MoodTrackerAPI.Context
 {
-    public class STSDBContext : DbContext
+    public class DBContext : DbContext
     {
         public DbSet<CategoryModel> Categories { get; set; }
+        public DbSet<MoodDataModel> MoodData { get; set; }
         public DbSet<UserModel> Users { get; set; }
 
-        public STSDBContext(DbContextOptions<STSDBContext> options) : base(options)
+        public DBContext(DbContextOptions<DBContext> options) : base(options)
         {
         }
 
