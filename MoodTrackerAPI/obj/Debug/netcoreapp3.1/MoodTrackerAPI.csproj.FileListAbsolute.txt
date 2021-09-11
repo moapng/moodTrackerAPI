@@ -2,7 +2,6 @@ C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\ne
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\MoodTrackerAPI.exe
-C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.csprojAssemblyReference.cache
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.AssemblyInfoInputs.cache
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.AssemblyInfo.cs
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.RazorTargetAssemblyInfo.cache
