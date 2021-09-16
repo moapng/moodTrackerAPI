@@ -53,8 +53,14 @@ C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\ne
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.csproj.CoreCompileInputs.cache
-C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.dll
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.pdb
 C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.genruntimeconfig.cache
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moa\OneDrive\Dokument\GitHub\moodTrackerAPI\MoodTrackerAPI\obj\Debug\netcoreapp3.1\MoodTrackerAPI.csprojAssemblyReference.cache
