@@ -6,7 +6,9 @@ namespace MoodTrackerAPI.Context
     public class DBContext : DbContext
     {
         public DbSet<CategoryModel> Categories { get; set; }
+        public DbSet<NoteDataModel> NoteData { get; set; }
         public DbSet<MoodDataModel> MoodData { get; set; }
+        public DbSet<WeatherDataModel> WeatherData { get; set; }
         public DbSet<UserModel> Users { get; set; }
 
         public DBContext(DbContextOptions<DBContext> options) : base(options)

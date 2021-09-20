@@ -10,6 +10,6 @@ namespace MoodTrackerAPI.Models
         [Key]
         public int ID { get; set; }
         public string Note { get; set; }
-        public int NDate { get; set; }
+        public DateTime NDate { get; set; }
     }
 }
