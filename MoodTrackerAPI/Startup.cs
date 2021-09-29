@@ -28,10 +28,10 @@ namespace MoodTrackerAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddCors(c =>
-            {
-                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
-            });
+            services.AddCors(o => o.AddPolicy("CORSPolicy", builder =>
+              builder.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader()));
             services.AddDbContext<DBContext>();
         }
 
@@ -49,7 +49,7 @@ namespace MoodTrackerAPI
 
             app.UseAuthorization();
 
-            app.UseCors(options => options.AllowAnyOrigin());
+            app.UseCors("CORSPolicy");
 
             app.UseEndpoints(endpoints =>
             {
