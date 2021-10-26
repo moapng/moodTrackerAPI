@@ -8,7 +8,8 @@ namespace MoodTrackerAPI.Models
     public class MoodDataModel
     {
         [Key]
-        public int ID { get; set; }
+        public Guid ID { get; set; }
+        public int uID { get; set; }
         public string MoodType { get; set; }
         public DateTime MDate { get; set; }
     }

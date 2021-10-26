@@ -8,7 +8,8 @@ namespace MoodTrackerAPI.Models
    public class WeatherDataModel
     {
         [Key]
-        public int ID { get; set; }
+        public Guid ID { get; set; }
+        public int uID { get; set; }
         public string WeatherType { get; set; }
         public DateTime WDate { get; set; }
     }

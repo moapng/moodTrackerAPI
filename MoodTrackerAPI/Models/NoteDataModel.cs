@@ -8,7 +8,8 @@ namespace MoodTrackerAPI.Models
     public class NoteDataModel
     {
         [Key]
-        public int ID { get; set; }
+        public Guid ID { get; set; }
+        public int uID { get; set; }
         public string Note { get; set; }
         public DateTime NDate { get; set; }
     }
