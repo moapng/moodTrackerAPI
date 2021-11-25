@@ -18,7 +18,8 @@ namespace MoodTrackerAPI.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=MOAAAAAAAAA\SQLEXPRESS01;Database=MoodTrackerDB;Trusted_Connection=True;");
+            //optionsBuilder.UseSqlServer(@"Server=MOAAAAAAAAA\SQLEXPRESS01;Database=MoodTrackerDB;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=ASS\SQLEXPRESS;Database=MoodTrackerDB;Trusted_Connection=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

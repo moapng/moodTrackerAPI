@@ -12,3 +12,25 @@ MoodTrackerAPI/obj/MoodTrackerAPI.csproj.nuget.g.props
 MoodTrackerAPI/obj/project.assets.json
 
 MoodTrackerAPI/obj/Debug/netcoreapp3.1/MoodTrackerAPI.csproj.AssemblyReference.cache
+
+MoodTrackerAPI/.vs/MoodTrackerAPI/config/applicationhost.config
+
+MoodTrackerAPI/.vs/MoodTrackerAPI/v16/.suo
+
+MoodTrackerAPI/bin/Debug/netcoreapp3.1/MoodTrackerAPI.deps.json
+
+MoodTrackerAPI/bin/Debug/netcoreapp3.1/MoodTrackerAPI.dll
+
+MoodTrackerAPI/bin/Debug/netcoreapp3.1/MoodTrackerAPI.exe
+
+*.pdb
+
+MoodTrackerAPI/bin/Debug/netcoreapp3.1/MoodTrackerAPI.runtimeconfig.json
+
+MoodTrackerAPI/obj/Debug/netcoreapp3.1/MoodTrackerAPI.csproj.CoreCompileInputs.cache
+
+MoodTrackerAPI/obj/Debug/netcoreapp3.1/MoodTrackerAPI.csproj.FileListAbsolute.txt
+
+*.dll
+
+*.cache
