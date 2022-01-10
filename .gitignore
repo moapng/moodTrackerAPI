@@ -34,3 +34,5 @@ MoodTrackerAPI/obj/Debug/netcoreapp3.1/MoodTrackerAPI.csproj.FileListAbsolute.tx
 *.dll
 
 *.cache
+
+MoodTrackerAPI/.vs/MoodTrackerAPI/DesignTimeBuild/.dtbcache.v2

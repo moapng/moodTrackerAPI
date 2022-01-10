@@ -7,10 +7,9 @@ namespace MoodTrackerAPI.Models
 {
     public class UserModel
     {
-        [Key]
         public int ID { get; set; }
+
+        [Key]
         public string UserName { get; set; }
-
-
     }
 }
